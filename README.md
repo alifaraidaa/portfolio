@@ -23,7 +23,7 @@ Click the links below to explore specific projects and documentation:
 ---
 
 ## 📄 Main Portfolio Document
-**[Download My Full Portfolio (PDF)](./Portfolio_Alifa_Raida.pdf)** *(Click the link above, then click 'Download' to view my 7-slide portfolio)*
+**[Download My Full Portfolio (PDF)](./Portfolio_Alifa_Raida.pdf)** *(Click the link above, then click 'Download' to view my portfolio)*
 
 ---
 
