@@ -27,11 +27,6 @@ Click the links below to explore specific projects and documentation:
 
 ---
 
-## 📄 Main Portfolio Document
-**[Download My Full Portfolio (PDF)](./Portfolio_Alifa_Raida.pdf)** *(Click the link above, then click 'Download' to view my portfolio)*
-
----
-
 ## 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/alifaraidaa](https://www.linkedin.com/in/alifaraidaa)
 - **Email:** alifa.raida@gmail.com
