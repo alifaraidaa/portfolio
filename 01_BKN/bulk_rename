@@ -1,0 +1,29 @@
+Get-ChildItem -File | Where-Object { $_.BaseName -match '^\d{3,4}_\d{18}_[1-6]$' } | ForEach-Object {
+
+    $baseName = $_.BaseName
+    $ext = $_.Extension
+
+    # CASE angka kode (1–6)
+    if ($baseName -match '^(\d{3,4})_(\d{18})_([1-6])$') {
+
+        $nip = $matches[2]
+        $kode = $matches[3]
+
+        switch ($kode) {
+            '1' { $docName = 'D2' }
+            '2' { $docName = 'Ijazah S1' }
+            '3' { $docName = 'Transkrip S1' }
+            '4' { $docName = 'DRH' }
+            '5' { $docName = 'Akta IV' }
+            '6' { $docName = 'Transkrip Akta IV' }
+        }
+
+        $newName = "$nip" + "_" + "$docName" + $ext
+    }
+
+    if (Test-Path $newName) {
+        $newName = "copy_$newName"
+    }
+
+    Rename-Item -LiteralPath $_.FullName -NewName $newName
+}
