@@ -27,7 +27,7 @@ Click the links below to explore specific projects and documentation:
 
 ---
 
-## 📫 Let's Connect!
+## 🫱🏻‍🫲🏻 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/alifaraidaa](https://www.linkedin.com/in/alifaraidaa)
 - **Email:** alifa.raida@gmail.com
 - **GitHub:** [github.com/alifaraidaa](https://github.com/alifaraidaa)
