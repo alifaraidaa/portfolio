@@ -1,6 +1,13 @@
 # 🌟 Professional Portfolio | Alifa Raida Alamsyah
 
-Welcome to my central portfolio repository! This project documents my journey as a **Mathematics Graduate** combining technical data skills with strategic leadership.
+Welcome to my central portfolio repository! This project documents my journey as a **Mathematics Graduate** combining technical data skills, strategic business with leadership experiences.
+
+---
+
+**[Download Portfolio (English Version)](./Portfolio_Alifa_Raida_Alamsyah.pdf)**
+**[Unduh Portofolio (Versi Indonesia)](./Portfolio_Alifa_Raida_ID.pdf)**
+
+*(Click the links above, then click 'Download' to view the file)*
 
 ---
 
@@ -8,17 +15,15 @@ Welcome to my central portfolio repository! This project documents my journey as
 
 Click the links below to explore specific projects and documentation:
 
-### 🤖 [01. BKN Data Automation](./01_BKN_Data_Automation/)
-*Automating bulk-renaming and organization of 20,000+ digital documents using Python & PowerShell.*
+### 🤖 [01. BKN - Data Management](./01_BKN/)
 
-### 💡 [02. Bank Mandiri - Business Innovation](./02_Mandiri_Business_Innovation/)
-*Strategic business decks for digital banking transformation developed during My Digital Academy.*
+### 💡 [02. Bank Mandiri - Business Innovation](./02_Mandiri/)
 
-### 📊 [03. Komdigi - Data Analysis](./03_Komdigi_Data_Analysis/)
-*Intensive training in SQL and Python for professional data analysis and visualization.*
+### 📊 [03. Professional Development](./03_Development/)
 
-### 🏆 [04. Leadership & Experience](./04_Leadership_and_Experience/)
-*Detailed highlights of roles as VP at Himatika Unpad and Steering Committee at Marscion.*
+### 🏆 [04. Leadership & Experiences](./04_Organizations/)
+
+### 🎓 [Academic & Research](./Academic/)
 
 ---
 
