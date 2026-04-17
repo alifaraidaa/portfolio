@@ -5,7 +5,7 @@ Welcome to my central portfolio repository! This project documents my journey as
 ---
 
 **[Download Portfolio (English Version)](https://github.com/alifaraidaa/portfolio/blob/main/Portfolio%20English_Alifa%20Raida%20Alamsyah.pdf)**
-**[Unduh Portofolio (Versi Indonesia)](./Portfolio_Alifa_Raida_ID.pdf)**
+**[Unduh Portofolio (Versi Indonesia)](https://github.com/alifaraidaa/portfolio/blob/main/Portofolio%20Indonesia_Alifa%20Raida%20Alamsyah.pdf)**
 
 *(Click the links above, then click 'Download' to view the file)*
 
