@@ -1,4 +1,4 @@
-# 🌟 Professional Portfolio | Alifa Raida Alamsyah
+# Professional Portfolio | Alifa Raida Alamsyah
 
 Welcome to my central portfolio repository! This project documents my journey as a **Mathematics Graduate** combining technical data skills, strategic business with leadership experiences.
 
@@ -15,15 +15,15 @@ Welcome to my central portfolio repository! This project documents my journey as
 
 Click the links below to explore specific projects and documentation:
 
-### 🤖 [01. BKN - Data Management](./01_BKN/)
+### [01. BKN - Data Management](./01_BKN/)
 
-### 💡 [02. Bank Mandiri - Business Innovation](./02_Mandiri/)
+### [02. Bank Mandiri - Business Innovation](./02_Mandiri/)
 
-### 📊 [03. Professional Development](./03_Development/)
+### [03. Professional Development](./03_Development/)
 
-### 🏆 [04. Leadership & Experiences](./04_Organizations/)
+### [04. Leadership & Experiences](./04_Organizations/)
 
-### 🎓 [Academic & Research](./Academic/)
+### [Academic & Research](./Academic/)
 
 ---
 
