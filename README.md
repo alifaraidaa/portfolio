@@ -16,22 +16,22 @@ Welcome to my central portfolio repository! This project documents my journey as
 
 Click the links below to explore specific projects and documentation:
 
-### [01. BKN - Data Management](./01_BKN/)
+### 🏢 [01. BKN - Data Management](./01_BKN/)
 Captures of my core responsibilities at BKN, specifically focusing on data migration automation and regional data visualization reports.
 
-### [02. Bank Mandiri - Business Innovation](./02_Mandiri/)
+### 🏦 [02. Bank Mandiri - Business Innovation](./02_Mandiri/)
 Documentation of my work at Bank Mandiri, primarily focusing on conceptualizing digital banking business innovations.
 
-### [03. Professional Development](./03_Development/)
+### 👩🏻‍💻 [03. Professional Development](./03_Development/)
 Comprehensive documentation of professional training and certifications attended to enhance technical and strategic skill sets.
 
-### [04. Leadership & Experiences](./04_Organizations/)
+### 👥 [04. Leadership & Experiences](./04_Organizations/)
 A collection of my organizational journey and leadership roles, highlighting strategic management during my university years.
 
-### [Academic & Research](./Academic/)
+### 🎓 [Academic & Research](./Academic/)
 Academic projects including published research papers and Python scripts developed for course assignments and my final thesis.
 
-### [Projects](./Projects/)
+### 📊 [Projects](./Projects/)
 A collection of independent technical projects and data visualization assignments completed for professional certifications.
 
 ---
